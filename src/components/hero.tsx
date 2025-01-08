@@ -1,4 +1,3 @@
-import homeSrc from "../../public/0.jpg";
 import Image, {StaticImageData} from "next/image";
 
 interface IProps {
